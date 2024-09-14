@@ -1,0 +1,66 @@
+.carousel-item img {
+    width: 100%; 
+    height: 500px; 
+    object-fit: cover; 
+  }
+
+
+
+.bg-blue {
+  background-color: rgb(3, 51, 209) !important;
+}
+
+.border-yellow-solid {
+  border: 5px solid rgb(235, 165, 15) !important;
+}
+
+.modal-footer {
+  background-color: rgb(3, 51, 209) !important;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.footer-logo {
+  width: 100px; 
+}
+
+.social-list {
+  list-style: none;
+  padding: 0;
+}
+
+.social-list li {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.social-icon {
+  width: 30px; 
+  margin-right: 10px;
+}
+
+
+.container {
+  margin: 40px;
+  border: 5px solid rgb(235, 165, 15) !important;
+  background-color: rgb(3, 51, 209) !important;
+  border-radius: 16px !important;
+  flex: 1;
+}
+
+.txt{
+  display:flex;
+  width: 100%;
+}
+
